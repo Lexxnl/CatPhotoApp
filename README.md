@@ -23,5 +23,7 @@ I didn't write all of this code on my own. This project was part of the FreeCode
 ## About Me
 This project was created by **Lex Kimmel**, an aspiring web developer from the Netherlands. I'm currently learning web development to build a career in tech. Feel free to check out my GitHub profile for more projects and progress: [GitHub Profile](https://github.com/Lexxnl).
 
+
 ## View the Project
-You can view the live version of this project here: [CatPhotoApp Live Demo](https://Lexxnl.github.io/CatPhotoApp/)
+You can view the live version of this project here:  
+<a href="https://Lexxnl.github.io/CatPhotoApp/" target="_blank">CatPhotoApp Live Demo</a>
